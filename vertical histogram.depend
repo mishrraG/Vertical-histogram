@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1540827459 source:c:\users\kiit\documents\c-programs\vertical histogram\main.c
+1562224384 source:c:\users\kiit\documents\c-programs\vertical histogram\main.c
 	<stdio.h>
-	<stdlib.h>
+	<string.h>
 
